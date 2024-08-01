@@ -11,6 +11,6 @@ Your iOS device has to be in the same network as your PC !
 1) npm install
 2) npm start
 3) Connect to http://yourlocalip:8000/getpass
-4) Put any "pass.pkpass" in the folder of this project. Visit again http://yourlocalip:8000/getpass from your iOS device : it should now ask to add this loyalty card. You can swap pass.pkpass to add another one without having to reboot again this little server.
+4) Put any "pass.pkpass" in the folder of this project. Visit again http://yourlocalip:8000/getpass from your iOS device : it should now ask to add the loyalty card. You can swap pass.pkpass to add another one without having to reboot again this little server.
 
 # Enjoy !
